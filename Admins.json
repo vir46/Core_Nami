@@ -1,0 +1,20 @@
+{
+    "adminList": [
+        {
+            "index": 1,
+            "privileges": 2,
+            "name": "Niggor",
+            "steamId": 76561198187715287,
+            "crossPlatformId": 16777343,
+            "stringId": "16777343"
+        },
+        {
+            "index": 3,
+            "privileges": 2,
+            "name": "Niggor",
+            "steamId": 76561198988902831,
+            "crossPlatformId": 14235949735771897983,
+            "stringId": "14235949735771897983"
+        }
+    ]
+}

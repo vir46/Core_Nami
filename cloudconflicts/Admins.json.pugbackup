@@ -1,0 +1,12 @@
+{
+    "adminList": [
+        {
+            "index": 1,
+            "privileges": 2,
+            "name": "Scarlet",
+            "steamId": 76561198187715287,
+            "crossPlatformId": 16777343,
+            "stringId": "16777343"
+        }
+    ]
+}
