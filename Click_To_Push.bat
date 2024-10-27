@@ -12,7 +12,7 @@ set "commit_message=%date% %time%"
 REM Execute git commands
 git add .
 git commit -m "%commit_message%"
-git push
+git push --set-upstream origin master
 
 REM Pause to display output
 pause
