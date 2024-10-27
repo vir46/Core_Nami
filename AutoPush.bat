@@ -14,4 +14,6 @@ git add .
 git commit -m "%commit_message%"
 git push
 
+REM Pause to display output
+pause
 endlocal
