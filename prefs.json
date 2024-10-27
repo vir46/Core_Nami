@@ -3,7 +3,7 @@
     "applicationVersion": "1.0.0.10-6489",
     "sfxVol": 0.5,
     "ambSfxVol": 0.5,
-    "bgmVol": 0.25,
+    "bgmVol": 0.0,
     "instrVol": 0.5,
     "gamepadSpeaker": true,
     "vsync": false,
